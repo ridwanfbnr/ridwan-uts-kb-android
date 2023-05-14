@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ridwan_UTS</string>
+    <string name="logo_himti">Logo Himti</string>
+    <string name="logo_success">Logo Success</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_reset">Reset</string>
+    <string name="edt_nama">Nama</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Password</string>
+    <string name="edt_old_password">Old Password</string>
+    <string name="edt_new_password">New Password</string>
+    <string name="tv_data">Data Pribadi</string>
+    <string name="tv_masuk">Silahkan Masuk</string>
+    <string name="tv_daftar">Silahkan Daftar</string>
+    <string name="tv_login">Login ?</string>
+    <string name="tv_reset">Reset Password</string>
+    <string name="tv_lupa">Lupa Password ?</string>
+    <string name="tv_punya_akun">Sudah Punya Akun ?</string>
+    <string name="tv_success">Register Berhasil</string>
+    <string name="tv_lupa_success">Password berhasil di reset</string>
+</resources>
